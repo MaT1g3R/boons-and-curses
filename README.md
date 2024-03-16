@@ -1,4 +1,3 @@
-# sts-mod-template
+# Boons And Curses
 
-Slay the Spire mod template using gradle.
-
+Add a new custom game mode with boons and curses selection.
